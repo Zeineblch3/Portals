@@ -1,10 +1,3 @@
 # r3f-vite-starter
-A boilerplate to build R3F projects
 
-```
-yarn
-yarn dev
-```
-
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![image](https://github.com/Zeineblch3/Portals/blob/master/Capture%20d'%C3%A9cran%202025-02-02%20145151.png)
