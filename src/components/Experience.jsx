@@ -46,9 +46,7 @@ export const Experience = () => {
 
 
     return (
-      
     <>
-
       <ambientLight intensity={0.5} /> 
       <Environment preset="sunset" />
       <CameraControls ref={controlsRef} maxPolarAngle={Math.PI / 2} minPolarAngle={Math.PI / 6}/>
